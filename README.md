@@ -1,2 +1,2 @@
 # Scanner-1.2
-TAIK
+Wallet Scanner
